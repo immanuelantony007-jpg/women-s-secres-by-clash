@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-panorama1",
-      "name": "Panorama(1)",
+      "id": "0--by-clash--360",
+      "name": " by clash -360",
       "levels": [
         {
           "tileSize": 256,
@@ -28,8 +28,8 @@ var APP_DATA = {
       ],
       "faceSize": 4096,
       "initialViewParameters": {
-        "yaw": 0.12129906925441425,
-        "pitch": -0.10760550188633644,
+        "yaw": 0.051485899174638305,
+        "pitch": -0.07050015640830054,
         "fov": 1.38217411905719
       },
       "linkHotspots": [],
